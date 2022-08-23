@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/scarolan/microbit-v2-lesson-music** and import
 
-## Edit this project ![Build status badge](https://github.com/scarolan/microbit-v2-lesson-music/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/scarolan/microbit-v2-lesson-music/actions/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
